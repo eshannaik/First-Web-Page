@@ -1,0 +1,81 @@
+<style>
+h1#z.intro{
+	text-decoration: underlined;
+}
+a:hover{
+	color:black;
+	text-align: center;
+}
+a:focus{
+	color:black;
+}
+a:visited{
+	color:black;
+}
+a:link{
+	color:black;
+}
+a{
+	color:black;
+}
+body {
+  background:url("https://cdnb.artstation.com/p/assets/images/images/006/897/659/large/mikael-gustafsson-wallpaper-mikael-gustafsson.jpg?1502104559");
+  background-size: cover;
+  background-attachment: fixed
+}
+body p{
+	color:white;
+	margin:auto;
+	overflow:hidden;
+	padding:0;
+}
+form{
+	color:white;
+}
+marquee{
+	color:white;
+}
+select{
+	color:black;
+}
+input{
+	color:black;
+	margin:10px;
+}
+body ul{
+	color:white;
+	margin:0;
+	padding:0;
+}
+ol{
+	color:white;
+}
+body li{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+table{
+	color:white;
+	margin:auto;
+}
+body #b{
+	color:white;
+	float:right;
+	padding:0 20px 0 20px;
+}
+body #a{
+	color:white;
+	float:right;
+	padding:0 20px 0 20px;
+}
+img #c{
+	float:center;
+	margin:auto;
+}
+span{
+	color:white;
+	float:right;
+}
+</style>
+
